@@ -15,7 +15,8 @@
 HTML/CSS/GitHub Pages
 
 ##爬蟲
-!(‪C:\Users\Elva\OneDrive - 靜宜大學\圖片\螢幕擷取畫面\螢幕擷取畫面 2025-05-08 223221.png)
+
 [公路客運即時動態](https://www.taiwanbus.tw/ebuspage/Default.aspx?lan=C)
+
 ##作者
-靜宜大學，大學部，資科系學生
+靜宜大學，大學部，資科系學生，聯絡方式:s1120106@o365st.pu.edu.tw
